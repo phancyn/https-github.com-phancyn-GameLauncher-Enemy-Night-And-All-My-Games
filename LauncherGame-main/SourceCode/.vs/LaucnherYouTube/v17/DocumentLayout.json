@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.project\\.project\\https-github.com-phancyn-GameLauncher-Enemy-Night-And-All-My-Games\\LauncherGame-main\\SourceCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0926CF-7443-4969-83AB-E69064507FB9}|LaucnherYouTube\\LaucnherYouTube.csproj|D:\\.project\\.project\\https-github.com-phancyn-GameLauncher-Enemy-Night-And-All-My-Games\\LauncherGame-main\\SourceCode\\laucnheryoutube\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F0926CF-7443-4969-83AB-E69064507FB9}|LaucnherYouTube\\LaucnherYouTube.csproj|solutionrelative:laucnheryoutube\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0926CF-7443-4969-83AB-E69064507FB9}|LaucnherYouTube\\LaucnherYouTube.csproj|D:\\.project\\.project\\https-github.com-phancyn-GameLauncher-Enemy-Night-And-All-My-Games\\LauncherGame-main\\SourceCode\\laucnheryoutube\\childwindow\\allowupdate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F0926CF-7443-4969-83AB-E69064507FB9}|LaucnherYouTube\\LaucnherYouTube.csproj|solutionrelative:laucnheryoutube\\childwindow\\allowupdate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0926CF-7443-4969-83AB-E69064507FB9}|LaucnherYouTube\\LaucnherYouTube.csproj|d:\\.project\\.project\\https-github.com-phancyn-gamelauncher-enemy-night-and-all-my-games\\launchergame-main\\sourcecode\\laucnheryoutube\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F0926CF-7443-4969-83AB-E69064507FB9}|LaucnherYouTube\\LaucnherYouTube.csproj|solutionrelative:laucnheryoutube\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0926CF-7443-4969-83AB-E69064507FB9}|LaucnherYouTube\\LaucnherYouTube.csproj|D:\\.project\\.project\\https-github.com-phancyn-GameLauncher-Enemy-Night-And-All-My-Games\\LauncherGame-main\\SourceCode\\LaucnherYouTube\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F0926CF-7443-4969-83AB-E69064507FB9}|LaucnherYouTube\\LaucnherYouTube.csproj|solutionrelative:LaucnherYouTube\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0926CF-7443-4969-83AB-E69064507FB9}|LaucnherYouTube\\LaucnherYouTube.csproj|d:\\.project\\.project\\https-github.com-phancyn-gamelauncher-enemy-night-and-all-my-games\\launchergame-main\\sourcecode\\laucnheryoutube\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F0926CF-7443-4969-83AB-E69064507FB9}|LaucnherYouTube\\LaucnherYouTube.csproj|solutionrelative:laucnheryoutube\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0926CF-7443-4969-83AB-E69064507FB9}|LaucnherYouTube\\LaucnherYouTube.csproj|D:\\.project\\.project\\https-github.com-phancyn-GameLauncher-Enemy-Night-And-All-My-Games\\LauncherGame-main\\SourceCode\\laucnheryoutube\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6F0926CF-7443-4969-83AB-E69064507FB9}|LaucnherYouTube\\LaucnherYouTube.csproj|solutionrelative:laucnheryoutube\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0926CF-7443-4969-83AB-E69064507FB9}|LaucnherYouTube\\LaucnherYouTube.csproj|D:\\.project\\.project\\https-github.com-phancyn-GameLauncher-Enemy-Night-And-All-My-Games\\LauncherGame-main\\SourceCode\\laucnheryoutube\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F0926CF-7443-4969-83AB-E69064507FB9}|LaucnherYouTube\\LaucnherYouTube.csproj|solutionrelative:laucnheryoutube\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0926CF-7443-4969-83AB-E69064507FB9}|LaucnherYouTube\\LaucnherYouTube.csproj|D:\\.project\\.project\\https-github.com-phancyn-GameLauncher-Enemy-Night-And-All-My-Games\\LauncherGame-main\\SourceCode\\laucnheryoutube\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{6F0926CF-7443-4969-83AB-E69064507FB9}|LaucnherYouTube\\LaucnherYouTube.csproj|solutionrelative:laucnheryoutube\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0926CF-7443-4969-83AB-E69064507FB9}|LaucnherYouTube\\LaucnherYouTube.csproj|D:\\.project\\.project\\https-github.com-phancyn-GameLauncher-Enemy-Night-And-All-My-Games\\LauncherGame-main\\SourceCode\\laucnheryoutube\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F0926CF-7443-4969-83AB-E69064507FB9}|LaucnherYouTube\\LaucnherYouTube.csproj|solutionrelative:laucnheryoutube\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0926CF-7443-4969-83AB-E69064507FB9}|LaucnherYouTube\\LaucnherYouTube.csproj|D:\\.project\\.project\\https-github.com-phancyn-GameLauncher-Enemy-Night-And-All-My-Games\\LauncherGame-main\\SourceCode\\laucnheryoutube\\childwindow\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F0926CF-7443-4969-83AB-E69064507FB9}|LaucnherYouTube\\LaucnherYouTube.csproj|solutionrelative:laucnheryoutube\\childwindow\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0926CF-7443-4969-83AB-E69064507FB9}|LaucnherYouTube\\LaucnherYouTube.csproj|D:\\.project\\.project\\https-github.com-phancyn-GameLauncher-Enemy-Night-And-All-My-Games\\LauncherGame-main\\SourceCode\\laucnheryoutube\\childwindow\\settingswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F0926CF-7443-4969-83AB-E69064507FB9}|LaucnherYouTube\\LaucnherYouTube.csproj|solutionrelative:laucnheryoutube\\childwindow\\settingswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0926CF-7443-4969-83AB-E69064507FB9}|LaucnherYouTube\\LaucnherYouTube.csproj|D:\\.project\\.project\\https-github.com-phancyn-GameLauncher-Enemy-Night-And-All-My-Games\\LauncherGame-main\\SourceCode\\laucnheryoutube\\childwindow\\allowupdate.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F0926CF-7443-4969-83AB-E69064507FB9}|LaucnherYouTube\\LaucnherYouTube.csproj|solutionrelative:laucnheryoutube\\childwindow\\allowupdate.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\.project\\.project\\https-github.com-phancyn-GameLauncher-Enemy-Night-And-All-My-Games\\LauncherGame-main\\SourceCode\\LaucnherYouTube\\App.xaml.cs",
+              "RelativeDocumentMoniker": "LaucnherYouTube\\App.xaml.cs",
+              "ToolTip": "D:\\.project\\.project\\https-github.com-phancyn-GameLauncher-Enemy-Night-And-All-My-Games\\LauncherGame-main\\SourceCode\\LaucnherYouTube\\App.xaml.cs",
+              "RelativeToolTip": "LaucnherYouTube\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T16:27:02.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\.project\\.project\\https-github.com-phancyn-GameLauncher-Enemy-Night-And-All-My-Games\\LauncherGame-main\\SourceCode\\LaucnherYouTube\\packages.config",
+              "RelativeDocumentMoniker": "LaucnherYouTube\\packages.config",
+              "ToolTip": "D:\\.project\\.project\\https-github.com-phancyn-GameLauncher-Enemy-Night-And-All-My-Games\\LauncherGame-main\\SourceCode\\LaucnherYouTube\\packages.config",
+              "RelativeToolTip": "LaucnherYouTube\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-27T15:29:54.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\.project\\.project\\https-github.com-phancyn-GameLauncher-Enemy-Night-And-All-My-Games\\LauncherGame-main\\SourceCode\\LaucnherYouTube\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "LaucnherYouTube\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\.project\\.project\\https-github.com-phancyn-GameLauncher-Enemy-Night-And-All-My-Games\\LauncherGame-main\\SourceCode\\LaucnherYouTube\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "LaucnherYouTube\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T15:28:48.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\.project\\.project\\https-github.com-phancyn-GameLauncher-Enemy-Night-And-All-My-Games\\LauncherGame-main\\SourceCode\\LaucnherYouTube\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "LaucnherYouTube\\Properties\\Resources.resx",
+              "ToolTip": "D:\\.project\\.project\\https-github.com-phancyn-GameLauncher-Enemy-Night-And-All-My-Games\\LauncherGame-main\\SourceCode\\LaucnherYouTube\\Properties\\Resources.resx",
+              "RelativeToolTip": "LaucnherYouTube\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-27T15:28:26.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "D:\\.project\\.project\\https-github.com-phancyn-GameLauncher-Enemy-Night-And-All-My-Games\\LauncherGame-main\\SourceCode\\LaucnherYouTube\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "LaucnherYouTube\\Properties\\Resources.Designer.cs",
+              "ToolTip": "D:\\.project\\.project\\https-github.com-phancyn-GameLauncher-Enemy-Night-And-All-My-Games\\LauncherGame-main\\SourceCode\\LaucnherYouTube\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "LaucnherYouTube\\Properties\\Resources.Designer.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T15:28:15.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SettingsWindow.xaml",
+              "DocumentMoniker": "D:\\.project\\.project\\https-github.com-phancyn-GameLauncher-Enemy-Night-And-All-My-Games\\LauncherGame-main\\SourceCode\\LaucnherYouTube\\ChildWindow\\SettingsWindow.xaml",
+              "RelativeDocumentMoniker": "LaucnherYouTube\\ChildWindow\\SettingsWindow.xaml",
+              "ToolTip": "D:\\.project\\.project\\https-github.com-phancyn-GameLauncher-Enemy-Night-And-All-My-Games\\LauncherGame-main\\SourceCode\\LaucnherYouTube\\ChildWindow\\SettingsWindow.xaml",
+              "RelativeToolTip": "LaucnherYouTube\\ChildWindow\\SettingsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-27T15:26:01.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SettingsWindow.xaml.cs",
+              "DocumentMoniker": "D:\\.project\\.project\\https-github.com-phancyn-GameLauncher-Enemy-Night-And-All-My-Games\\LauncherGame-main\\SourceCode\\LaucnherYouTube\\ChildWindow\\SettingsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LaucnherYouTube\\ChildWindow\\SettingsWindow.xaml.cs",
+              "ToolTip": "D:\\.project\\.project\\https-github.com-phancyn-GameLauncher-Enemy-Night-And-All-My-Games\\LauncherGame-main\\SourceCode\\LaucnherYouTube\\ChildWindow\\SettingsWindow.xaml.cs",
+              "RelativeToolTip": "LaucnherYouTube\\ChildWindow\\SettingsWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T15:26:01.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AllowUpdate.xaml.cs",
+              "DocumentMoniker": "D:\\.project\\.project\\https-github.com-phancyn-GameLauncher-Enemy-Night-And-All-My-Games\\LauncherGame-main\\SourceCode\\LaucnherYouTube\\ChildWindow\\AllowUpdate.xaml.cs",
+              "RelativeDocumentMoniker": "LaucnherYouTube\\ChildWindow\\AllowUpdate.xaml.cs",
+              "ToolTip": "D:\\.project\\.project\\https-github.com-phancyn-GameLauncher-Enemy-Night-And-All-My-Games\\LauncherGame-main\\SourceCode\\LaucnherYouTube\\ChildWindow\\AllowUpdate.xaml.cs",
+              "RelativeToolTip": "LaucnherYouTube\\ChildWindow\\AllowUpdate.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T15:24:51.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AllowUpdate.xaml",
+              "DocumentMoniker": "D:\\.project\\.project\\https-github.com-phancyn-GameLauncher-Enemy-Night-And-All-My-Games\\LauncherGame-main\\SourceCode\\LaucnherYouTube\\ChildWindow\\AllowUpdate.xaml",
+              "RelativeDocumentMoniker": "LaucnherYouTube\\ChildWindow\\AllowUpdate.xaml",
+              "ToolTip": "D:\\.project\\.project\\https-github.com-phancyn-GameLauncher-Enemy-Night-And-All-My-Games\\LauncherGame-main\\SourceCode\\LaucnherYouTube\\ChildWindow\\AllowUpdate.xaml",
+              "RelativeToolTip": "LaucnherYouTube\\ChildWindow\\AllowUpdate.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-27T15:24:45.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\.project\\.project\\https-github.com-phancyn-GameLauncher-Enemy-Night-And-All-My-Games\\LauncherGame-main\\SourceCode\\LaucnherYouTube\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LaucnherYouTube\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\.project\\.project\\https-github.com-phancyn-GameLauncher-Enemy-Night-And-All-My-Games\\LauncherGame-main\\SourceCode\\LaucnherYouTube\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LaucnherYouTube\\MainWindow.xaml.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAtwE8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T15:10:51.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\.project\\.project\\https-github.com-phancyn-GameLauncher-Enemy-Night-And-All-My-Games\\LauncherGame-main\\SourceCode\\LaucnherYouTube\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LaucnherYouTube\\MainWindow.xaml",
+              "ToolTip": "D:\\.project\\.project\\https-github.com-phancyn-GameLauncher-Enemy-Night-And-All-My-Games\\LauncherGame-main\\SourceCode\\LaucnherYouTube\\MainWindow.xaml",
+              "RelativeToolTip": "LaucnherYouTube\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-27T15:09:21.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\.project\\.project\\https-github.com-phancyn-GameLauncher-Enemy-Night-And-All-My-Games\\LauncherGame-main\\SourceCode\\LaucnherYouTube\\App.xaml",
+              "RelativeDocumentMoniker": "LaucnherYouTube\\App.xaml",
+              "ToolTip": "D:\\.project\\.project\\https-github.com-phancyn-GameLauncher-Enemy-Night-And-All-My-Games\\LauncherGame-main\\SourceCode\\LaucnherYouTube\\App.xaml",
+              "RelativeToolTip": "LaucnherYouTube\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-27T15:09:21.09Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
